@@ -1,10 +1,10 @@
 import React from 'react'
 import style from './Header.module.css'
-import NavBar from './NavBar'
+import NavBar from '../subcomponentes/NavBar'
 
 export default function Header() {
   return (
-    <header className={style.master}>
+    <header className={style.masterHeader}>
       <figure className={style.headerStart}>
         <h1 className={style.logo}>L&C</h1>
         <legend className={style.logoDescription}>

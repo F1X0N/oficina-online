@@ -1,4 +1,4 @@
-.master{
+.masterHeader{
     background-color: #f4f4f4;
     width: 93%;
     height: 10%;
@@ -6,8 +6,9 @@
     justify-content: space-between;
     align-items: end;
     padding-left: 2vh;
-    margin: 0;
+    margin: 0  0 2vh 0;
     padding:0 1vw 0 1vw;
+    border-radius: 0 0 5px 5px;
 }
 
 .headerStart{

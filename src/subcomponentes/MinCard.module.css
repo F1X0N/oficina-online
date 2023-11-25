@@ -1,0 +1,38 @@
+.minCard{
+    background-color: #f4f4f4;
+    width: 48%;
+    border-radius: 5px;
+    padding: 0 1vw 0 1vw;
+}
+
+.minCard h2{
+    font-size: 22px;
+    font-weight: 600;
+    color: #FD860F;
+    
+}
+
+.playerVideo{
+    width: 100%;
+    margin-bottom: 1vh;
+    display: flex;
+    justify-content: space-between;
+}
+
+.playerVideo img{
+    width: 3.5rem;
+}
+
+.playerVideo .infoVideo{
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    background: rgba(188, 188, 188, 0.50);
+}
+
+.infoVideo span{
+    font-size: 16px;
+    font-weight: 400;
+}
