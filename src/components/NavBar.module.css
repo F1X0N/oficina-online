@@ -1,0 +1,9 @@
+.masterNav{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    border-radius: 5px 5px 0 0;
+    background-color: #ced3cead;
+    padding: .5rem 1rem  0;
+    margin: 0;
+}
