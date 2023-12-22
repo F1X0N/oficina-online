@@ -1,15 +1,25 @@
 .masterMain{
     width: 93%;
     display: flex;
-    justify-content: space-between;
-    align-items: end;
     padding-left: 2vh;
     margin: 0;
     padding:0;
 }
 
-.colsMain{
+.colsMainLeft{
     width: 100%;
     display: flex;
     justify-content: space-between;
+    align-items: start;
+    flex-direction: column;
+    gap: 18px;
+}
+
+.colsMainRight{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: end;
+    flex-direction: column;
+    gap: 18px;
 }

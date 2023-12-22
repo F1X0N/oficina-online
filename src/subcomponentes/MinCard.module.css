@@ -1,6 +1,7 @@
 .minCard{
     background-color: #f4f4f4;
-    width: 48%;
+    width: 98%;
+    height: 9vh;
     border-radius: 5px;
     padding: 0 1vw 0 1vw;
 }
